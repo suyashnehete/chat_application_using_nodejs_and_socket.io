@@ -1,0 +1,23 @@
+{
+  "name": "chat_application",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suyashnehete/chat_application_using_nodejs_and_socket.io"
+  },
+  "author": "Suyash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suyashnehete/chat_application_using_nodejs_and_socket.io/issues"
+  },
+  "homepage": "https://github.com/suyashnehete/chat_application_using_nodejs_and_socket.io#readme",
+  "dependencies": {
+    "nodemon": "^2.0.4",
+    "socket.io": "^2.3.0"
+  }
+}
